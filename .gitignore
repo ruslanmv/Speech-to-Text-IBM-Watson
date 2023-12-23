@@ -2,3 +2,7 @@
 .env
 backup/
 .ipynb_checkpoints/
+.venv
+ffmpeg/ffmpeg.py
+converted_audio.mp3
+converted_audio.mp3
